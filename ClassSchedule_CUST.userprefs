@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{3D89E387-3D3A-4777-851F-E7C6D6C436EF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClassSchedule_CUST/Models/DataModels/Course.cs">
+    <Files>
+      <File FileName="ClassSchedule_CUST/ViewModels/AboutViewModel.cs" Line="1" Column="1" />
+      <File FileName="ClassSchedule_CUST/Views/AboutPage.xaml" Line="61" Column="1" />
+      <File FileName="ClassSchedule_CUST/Views/ItemsPage.xaml" Line="23" Column="1" />
+      <File FileName="ClassSchedule_CUST/ViewModels/ItemsViewModel.cs" Line="1" Column="1" />
+      <File FileName="ClassSchedule_CUST/Views/ItemsPage.xaml.cs" Line="8" Column="2" />
+      <File FileName="ClassSchedule_CUST/Models/Item.cs" Line="1" Column="1" />
+      <File FileName="ClassSchedule_CUST/Models/DataModels/Course.cs" Line="10" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.ItemProperties.ClassSchedule__CUST.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.28F8BB90-EAA7-4879-8604-6C46EA69ECF8">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.ClassSchedule__CUST.iOS>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ClassSchedule__CUST.Droid PreferredExecutionTarget="25f17468-2999-4a6b-afd7-257d407eb074" />
+  <MultiItemStartupConfigurations />
+</Properties>
